@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/princy-sharma-850260194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
   <a href="mailto:princyapcps@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=githubpages" /></a>
+<!-- <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=githubpages" /></a> -->
 </p>
 
 ---
@@ -11,7 +11,7 @@
 🌟 **Glad to see you here!**
 
 I'm a Frontend Developer with experience in:
-- ⚛️ React.js, TypeScript, JavaScript
+- ⚛️ React.js, JavaScript, TypeScript
 - 📦 Redux, Redux Toolkit, React Router
 - 💅 Bootstrap, React-Bootstrap, SCSS
 - 🧠 Also exploring DSA & backend with .NET and C#
@@ -29,7 +29,7 @@ I'm a Frontend Developer with experience in:
 
 🛠️ **Tech Stack:**
 
-```js
+``` js
 Languages: JavaScript, TypeScript, C#
 Frontend: React.js, Redux, HTML, CSS, Bootstrap
 Backend: .NET, Node.js (learning)
