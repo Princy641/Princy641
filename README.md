@@ -24,7 +24,7 @@ I'm a Frontend Developer with experience in:
 
 - 🔧 Building an eCommerce project using **Next.js**
 - 💼 Working at **RateGain** on a hospitality sector platform using **React.js** and **JavaScript**
-- 🚀 Exploring side projects like **PayPal integration** and **To-Do apps**
+- 🚀 Exploring side projects like **PayPal integration**.
 - 📚 Practicing **Data Structures & Algorithms** to strengthen problem-solving
 - 🧠 Learning about **clean code**, **system design**, and scalable architecture
 ---
